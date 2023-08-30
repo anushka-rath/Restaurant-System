@@ -1,0 +1,14 @@
+C:\Users\anushkarath\source\repos\RestaurantSystem\bin\Debug\net7.0\RestaurantSystem.exe
+C:\Users\anushkarath\source\repos\RestaurantSystem\bin\Debug\net7.0\RestaurantSystem.deps.json
+C:\Users\anushkarath\source\repos\RestaurantSystem\bin\Debug\net7.0\RestaurantSystem.runtimeconfig.json
+C:\Users\anushkarath\source\repos\RestaurantSystem\bin\Debug\net7.0\RestaurantSystem.dll
+C:\Users\anushkarath\source\repos\RestaurantSystem\bin\Debug\net7.0\RestaurantSystem.pdb
+C:\Users\anushkarath\source\repos\RestaurantSystem\obj\Debug\net7.0\RestaurantSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anushkarath\source\repos\RestaurantSystem\obj\Debug\net7.0\RestaurantSystem.AssemblyInfoInputs.cache
+C:\Users\anushkarath\source\repos\RestaurantSystem\obj\Debug\net7.0\RestaurantSystem.AssemblyInfo.cs
+C:\Users\anushkarath\source\repos\RestaurantSystem\obj\Debug\net7.0\RestaurantSystem.csproj.CoreCompileInputs.cache
+C:\Users\anushkarath\source\repos\RestaurantSystem\obj\Debug\net7.0\RestaurantSystem.dll
+C:\Users\anushkarath\source\repos\RestaurantSystem\obj\Debug\net7.0\refint\RestaurantSystem.dll
+C:\Users\anushkarath\source\repos\RestaurantSystem\obj\Debug\net7.0\RestaurantSystem.pdb
+C:\Users\anushkarath\source\repos\RestaurantSystem\obj\Debug\net7.0\RestaurantSystem.genruntimeconfig.cache
+C:\Users\anushkarath\source\repos\RestaurantSystem\obj\Debug\net7.0\ref\RestaurantSystem.dll
